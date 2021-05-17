@@ -39,6 +39,7 @@ __
 - Invoke the helper function with the starting vertex
 - Return the result array
 
+***
 ### __Depth First Iterative Pseudocode__
 
 - DFS-iterative(start):
@@ -68,6 +69,7 @@ __
 Return the result array
 
 
+***
 ### __Breadth First__ 
 Visit neighbors at current depth first
 
